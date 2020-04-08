@@ -1,5 +1,9 @@
 # Common Workflow Patterns
 
+[GO TO THE WIKI](https://github.com/FredHutch/workflow-patterns/wiki)
+
+[SUBMIT AN ISSUE](https://github.com/FredHutch/workflow-patterns/issues)
+
 ## Mission Statement
 
 Repository to keep track of commonly used elements of computational workflows, e.g. Nextflow and Cromwell.
